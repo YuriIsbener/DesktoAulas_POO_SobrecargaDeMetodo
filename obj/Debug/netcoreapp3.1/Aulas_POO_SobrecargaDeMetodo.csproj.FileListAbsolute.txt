@@ -1,0 +1,13 @@
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\bin\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.exe
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\bin\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.deps.json
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\bin\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.runtimeconfig.json
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\bin\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\bin\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.dll
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\bin\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.pdb
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\obj\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\obj\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\obj\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.AssemblyInfo.cs
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\obj\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\obj\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.dll
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\obj\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.pdb
+C:\Users\yuris\Desktop\Aulas_POO_SobrecargaDeMetodo\obj\Debug\netcoreapp3.1\Aulas_POO_SobrecargaDeMetodo.genruntimeconfig.cache
